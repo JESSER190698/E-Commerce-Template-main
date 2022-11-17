@@ -5,9 +5,3 @@
 </p>
 <h3 align="center">E-Commerce Project</h3>
 <h3 align="center">Emiliano Ramos Hernandez</h3>
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 3c56526229ee9cf5923e0a6a2ee42c8ec206af50
